@@ -14,7 +14,7 @@
 3. Lack of quantified metrics to evaluate NFTs
 ## ✅ These can all be solved in Sigmate.
 
-👀 Features
+## Features
 1. Scattered information is gathered and written in Wiki Form.
 2. Know everything about NFT such has past rug-pull, wallet address of current owner etc.
 3. Keep project announcements updated without using discord and twitter.
