@@ -1,5 +1,5 @@
 ## WE ARE SIGMATE
-![Frame 1](./Frame1.png)
+![Frame1](./Frame1.png)
 
 <aside>
 💡 Reliable, All-in-one NFT Information Platform
