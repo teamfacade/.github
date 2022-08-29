@@ -3,11 +3,18 @@
 
 <aside>
 💡 Reliable, All-in-one NFT Information Platform
-
 </aside>
 
 > We bring everything you need to know about NFT.
->
+
+# Aren’t you tired of today's NFT market? 😪
+
+1. It’s hard to keep track of all the projects on Discord. 
+2. Hard to find reliable information because the amount of information.
+3. Lack of quantified metrics to evaluate NFTs
+
+## ✅ These can all be solved in Sigmate.
+
 <!--
 **Here are some ideas to get you started:**
 
