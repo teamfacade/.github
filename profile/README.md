@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Frame 1](./img/Frame 1.png)
+![Frame 1](./Frame 1.png)
 <!--
 
 **Here are some ideas to get you started:**
