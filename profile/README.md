@@ -25,8 +25,7 @@
 8. Evaluate your NFTs with our index and metrics.
 9. Win NFTs and whitelists with our Draw.
 
-## Visit our website for more information
-sigmate.io
+## Visit our [website](sigmate.io) for more information
 <!--
 **Here are some ideas to get you started:**
 
