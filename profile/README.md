@@ -1,7 +1,14 @@
 ## Hi there 👋
 ![Frame 1](./Frame1.png)
-<!--
 
+<aside>
+💡 Reliable, All-in-one NFT Information Platform
+
+</aside>
+
+> We bring everything you need to know about NFT.
+>
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
