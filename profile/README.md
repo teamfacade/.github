@@ -1,4 +1,4 @@
-## Hi there 👋
+## WE ARE SIGMATE
 ![Frame 1](./Frame1.png)
 
 <aside>
