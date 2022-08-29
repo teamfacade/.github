@@ -12,9 +12,21 @@
 1. It’s hard to keep track of all the projects on Discord. 
 2. Hard to find reliable information because the amount of information.
 3. Lack of quantified metrics to evaluate NFTs
-
 ## ✅ These can all be solved in Sigmate.
 
+👀 Features
+1. Scattered information is gathered and written in Wiki Form.
+2. Know everything about NFT such has past rug-pull, wallet address of current owner etc.
+3. Keep project announcements updated without using discord and twitter.
+4. Ensure reliability through cross-validation between users and Sigmate.
+5. Keep notified with upcoming NFTs projects with your own calendar.
+6. Write your own wiki page and earn token using write-2-earn system.
+7. Talk about your NFTs and share your opinion sorted by different category.
+8. Evaluate your NFTs with our index and metrics.
+9. Win NFTs and whitelists with our Draw.
+
+## Visit our website for more information
+sigmate.io
 <!--
 **Here are some ideas to get you started:**
 
