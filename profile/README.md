@@ -12,7 +12,7 @@
 1. It’s hard to keep track of all the projects on Discord. 
 2. Hard to find reliable information because the amount of information.
 3. Lack of quantified metrics to evaluate NFTs
-## ✅ These can all be solved in Sigmate.
+### ✅ These can all be solved in Sigmate.
 
 ## Features
 1. Scattered information is gathered and written in Wiki Form.
